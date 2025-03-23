@@ -1,5 +1,5 @@
 def factorial():
-    num = int(input("Enter any number you want: "))
+    num = int(input("Enter any number: "))
     if num == 0 or num == 1:
         print(1)
     else:
